@@ -1,0 +1,2 @@
+root_comment_id,root_emotion,total_replies,same_emotion_count,propagation_rate,descendant_emotion_distribution
+root,unknown,44980,0,0.0,"{'anger': 8597, 'neutral': 20632, 'fear': 2937, 'disgust': 5094, 'sadness': 2409, 'joy': 1578, 'surprise': 3733}"
